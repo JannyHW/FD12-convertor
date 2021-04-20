@@ -1,7 +1,7 @@
 # Bitcoin Convertor App
 
 
-![](images/app.png | height = 100)
+![](images/app.png | width = "100")
 
 ## Getting Started
 
