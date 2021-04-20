@@ -1,6 +1,7 @@
 # Bitcoin Convertor App
 
-![](images/app.png){:height="50%"}
+
+![test image size](images/app.png){:height="50%" width="50%"}
 
 ## Getting Started
 
